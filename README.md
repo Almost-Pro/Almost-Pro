@@ -1,5 +1,5 @@
 - Hi, I’m @Almost-Pro
-- I’m interested in quantitative methods of analysing economics andd finance
+- I’m interested in quantitative methods of analysing economics and finance
 - I’m currently learning R and Python
 - You can reach me at yanjiefang76@outlook.com
 
